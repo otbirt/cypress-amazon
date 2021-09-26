@@ -1,0 +1,14 @@
+{
+  "name": "test_amazon",
+  "version": "1.0.0",
+  "description": "Test Amazon para Irontec",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "author": "Oscar T",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.4.1"
+  }
+}
